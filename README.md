@@ -36,7 +36,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/tachyo
 
 How dare you ask for tests when our soldiers are struggling in the border
 
-### Term 'bakt' in this contest is purley political satire and not associated with any religion or group
+### Term 'bakt' in this context is purley political satire and not associated with any religion or group
 
 ## License
 
