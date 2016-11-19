@@ -1,6 +1,6 @@
 # BhaktScript
 
-Make ruby behave like a bhakt 
+Make ruby behave like a bhakt
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+![Image of Yaktocat](bhakt_script.gif)
 
 ## Development
 
@@ -32,6 +32,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/tachyons/bhakt_script. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
+## Test cases
+
+How dare you ask for tests when our soldiers are struggling in the border
+
+### Term 'bakt' in this contest is purley political satire and not associated with any religion or group
 
 ## License
 
